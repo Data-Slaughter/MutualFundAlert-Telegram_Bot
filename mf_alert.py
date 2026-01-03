@@ -13,7 +13,7 @@ FUNDS = [
     {"code": "152600", "name": "HDFC Manufacturing fund", "threshold": 12}
 ]
 
-BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
 STATE_FILE = "state.csv"
