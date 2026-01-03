@@ -8,7 +8,7 @@ FUNDS = [
     {"code": "151796", "name": "360 ONE FLEXICAP FUND", "threshold": 9},
     {"code": "148990", "name": "ICICI Prudential Flexicap Fund", "threshold": 9},
     {"code": "153859", "name": "JioBlackRock Flexi Cap Fund", "threshold": 9},
-    {"code": "119775", "name": "Kotak Midcap Fund", "threshold": 10},
+    {"code": "119775", "name": "Kotak Midcap Fund", "threshold": 9},
     {"code": "150915", "name": "Mahindra Manulife Small Cap Fund", "threshold": 12},
     {"code": "152600", "name": "HDFC Manufacturing fund", "threshold": 12},
     {"code": "152237", "name": "Motilal Oswal Small Cap Fund", "threshold": 12},
