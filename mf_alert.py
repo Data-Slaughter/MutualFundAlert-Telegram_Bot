@@ -13,7 +13,8 @@ FUNDS = [
     {"code": "152600", "name": "HDFC Manufacturing fund", "threshold": 12},
     {"code": "152237", "name": "Motilal Oswal Small Cap Fund", "threshold": 12},
     {"code": "149870", "name": "HDFC Nifty 100 Equal Weight Index Fund", "threshold": 9},
-    {"code": "151895", "name": "Bajaj Finserv Flexi Cap Fund", "threshold": 9}
+    {"code": "151895", "name": "Bajaj Finserv Flexi Cap Fund", "threshold": 9},
+    {"code": "149961", "name": "Invesco Nasdaq 100 ETF", "threshold": 6}
 ]
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
