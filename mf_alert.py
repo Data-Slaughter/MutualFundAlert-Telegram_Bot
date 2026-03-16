@@ -4,17 +4,17 @@ from datetime import datetime, timedelta
 import os
 
 FUNDS = [
-    {"code": "150797", "name": "WhiteOak Capital Large Cap Fund", "threshold": 6},
-    {"code": "151796", "name": "360 ONE FLEXICAP FUND", "threshold": 9},
-    {"code": "148990", "name": "ICICI Prudential Flexicap Fund", "threshold": 9},
-    {"code": "153859", "name": "JioBlackRock Flexi Cap Fund", "threshold": 9},
-    {"code": "119775", "name": "Kotak Midcap Fund", "threshold": 9},
-    {"code": "150915", "name": "Mahindra Manulife Small Cap Fund", "threshold": 12},
-    {"code": "152600", "name": "HDFC Manufacturing fund", "threshold": 12},
-    {"code": "152237", "name": "Motilal Oswal Small Cap Fund", "threshold": 12},
-    {"code": "149870", "name": "HDFC Nifty 100 Equal Weight Index Fund", "threshold": 9},
-    {"code": "151895", "name": "Bajaj Finserv Flexi Cap Fund", "threshold": 9},
-    {"code": "149961", "name": "Invesco Nasdaq 100 ETF", "threshold": 6}
+    {"code": "150797", "name": "WhiteOak Capital Large Cap Fund", "threshold": 9},
+    {"code": "151796", "name": "360 ONE FLEXICAP FUND", "threshold": 12},
+    {"code": "148990", "name": "ICICI Prudential Flexicap Fund", "threshold": 12},
+    {"code": "153859", "name": "JioBlackRock Flexi Cap Fund", "threshold": 12},
+    {"code": "119775", "name": "Kotak Midcap Fund", "threshold": 12},
+    {"code": "150915", "name": "Mahindra Manulife Small Cap Fund", "threshold": 15},
+    {"code": "152600", "name": "HDFC Manufacturing fund", "threshold": 15},
+    {"code": "152237", "name": "Motilal Oswal Small Cap Fund", "threshold": 15},
+    {"code": "149870", "name": "HDFC Nifty 100 Equal Weight Index Fund", "threshold": 12},
+    {"code": "151895", "name": "Bajaj Finserv Flexi Cap Fund", "threshold": 12},
+    {"code": "149961", "name": "Invesco Nasdaq 100 ETF", "threshold": 9}
 ]
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
